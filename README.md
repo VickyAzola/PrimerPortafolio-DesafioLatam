@@ -10,7 +10,7 @@
 
 ## Descripción
 
-Este protecto corresponde al portafolio de Victoria Azola, una desarrolladora front-end y diseñadora UX. 
+Este protecto corresponde al portafolio de Victoria Azola.
 El sitio web muestra sus habilidades, proyectos y formas de contacto.
 
 [Revisa el resultado final aqui](https://vickyazola.github.io/PrimerPortafolio-DesafioLatam/)
