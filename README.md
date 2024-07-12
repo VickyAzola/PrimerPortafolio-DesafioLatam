@@ -45,7 +45,7 @@ PrimerPortafolio-DesafioLatam/
 │       ├── vendors/
 │       └── main.scss
 │
-├── gitignore
+├── .gitignore
 ├── index.html
 ├── package-lock.json
 ├── package.json
