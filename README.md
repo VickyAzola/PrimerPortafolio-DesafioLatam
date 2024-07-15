@@ -26,7 +26,7 @@ PrimerPortafolio-DesafioLatam/
 │   ├── img/
 │   │   ├── logos/...
 │   │   ├── pages/...
-│   │   └── imgage.png
+│   │   └── image.png
 │   │    
 │   └── sass/
 │       ├── abstracts/
@@ -61,23 +61,23 @@ PrimerPortafolio-DesafioLatam/
   - [Montserrat](https://fonts.google.com/specimen/Montserrat?query=mon)
   - [Inter](https://fonts.google.com/specimen/Inter?query=inter)
 - **Font Awesome**: Iconofrafía. Los iconos utilizados fueron:
-  ```html
-  <i class="fa-brands fa-html5 fs-1"></i>
-  <i class="fa-brands fa-css3-alt fs-1"></i>
-  <i class="fa-brands fa-sass fs-1"></i>
-  <i class="fa-brands fa-github fs-1"></i>
-  <i class="fa-brands fa-git-alt fs-1"></i>
-  <i class="fa-brands fa-js fs-1"></i>
-  <i class="fa-brands fa-bootstrap fs-1"></i>
-  <i class="fa-brands fa-react fs-1"></i>
-  <i class="fa-brands fa-vuejs fs-1"></i>
-  <i class="fa-brands fa-figma fs-1"></i>
-  <i class="fa-solid fa-phone fs-5"></i>
-  <i class="fa-solid fa-envelope fs-5"></i>
-  <i class="fa-brands fa-github fs-5"></i>
-  <i class="fa-brands fa-linkedin fs-5"></i>
-  <i class="fa-brands fa-codepen fs-5"></i>
-  ```
+    ```html
+    <i class="fa-brands fa-html5 fs-1"></i>
+    <i class="fa-brands fa-css3-alt fs-1"></i>
+    <i class="fa-brands fa-sass fs-1"></i>
+    <i class="fa-brands fa-github fs-1"></i>
+    <i class="fa-brands fa-git-alt fs-1"></i>
+    <i class="fa-brands fa-js fs-1"></i>
+    <i class="fa-brands fa-bootstrap fs-1"></i>
+    <i class="fa-brands fa-react fs-1"></i>
+    <i class="fa-brands fa-vuejs fs-1"></i>
+    <i class="fa-brands fa-figma fs-1"></i>
+    <i class="fa-solid fa-phone fs-5"></i>
+    <i class="fa-solid fa-envelope fs-5"></i>
+    <i class="fa-brands fa-github fs-5"></i>
+    <i class="fa-brands fa-linkedin fs-5"></i>
+    <i class="fa-brands fa-codepen fs-5"></i>
+    ```
 
 ## Instalación
 
@@ -92,8 +92,14 @@ PrimerPortafolio-DesafioLatam/
     ```bash
     cd PrimerPortafolio-DesafioLatam
     ```
+    
+3. **Instala las dependencias necesarias**
    
-3. Abrir `index.html` en tu navegadorpara ver el sitio web.
+    ```bash
+    npm install
+    ```
+   
+4. Abrir `index.html` en tu navegador para ver el sitio web.
 
 ## Autores
 
